@@ -1,2 +1,3 @@
 # collaborative-text-editor
-Word processor with annotation and commenting features for multiple users.
+A collaborative text annotation editor built with Python and Tkinter, featuring user comments, text highlighting, and structured project saving.
+This project was made during my first year in university. 
